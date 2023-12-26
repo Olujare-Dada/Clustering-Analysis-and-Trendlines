@@ -1,0 +1,1 @@
+This repository gives a tableau analysis of a company's data in different countries. The purpose of the analysis is to create an application which can help the company drill down through their data and make more informed decisions about their profit margins 
